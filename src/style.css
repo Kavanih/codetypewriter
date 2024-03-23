@@ -1,0 +1,24 @@
+.whitespace {
+    white-space: pre-wrap;
+    background-color: black;
+    color: rgb(167, 240, 231);
+    padding: 5rem;
+    width: 50%;
+    height: max-content;
+    border-radius: 20px;
+    font-size: larger;
+    z-index: -1;
+    /* backdrop-filter: blur(50px); */
+    font-style: italic;
+    /* backdrop-filter: blur(40); */
+  }
+  body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh; 
+    background-color: peachpuff;
+
+    
+  }
